@@ -1,0 +1,20 @@
+*{
+
+}
+
+/*style for body*/
+body {
+	background-color: darkgray;
+	font-family: "Playright CU", cursive;
+}
+
+/*style for container*/
+.container {
+	background-color: darkred;
+	color: black;
+}
+
+/*style for image*/
+img{
+	width: 430px;
+}
